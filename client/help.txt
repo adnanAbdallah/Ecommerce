@@ -1,0 +1,10 @@
+# to update the angular version (update the package content)
+>>  ng update @angular/cli@10 update @angular/core@10 @angular/cli@10
+# to update the content of the package.json file
+>> ng update
+
+
+# or to update the project:
+  #update manually the versions in package.json file then
+   npm install --force then in the angular update guide check the difference to update
+  #update the typescript version

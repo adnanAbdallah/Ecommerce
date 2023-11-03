@@ -12,7 +12,7 @@ import { RegisterComponent } from './register/register.component';
   imports: [
     CommonModule,
     AccountRoutingModule,
-    SharedModule
+     SharedModule
   ]
 })
 export class AccountModule { }
